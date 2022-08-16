@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Victor
 - 👀 I’m a Java Engineer (Spring and Spring Boot) with strong ability to think.
 - 👀 Did stuffs with Android (Java)
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on building payment solutions.
+- 🌱 I have good knowledge of DevOps
+- 💞️ I’m looking to collaborate on building solutions that solves real life problem.
 - 📫 You can reach me on Linkedln https://www.linkedin.com/in/victor-adeleye-a3813a166/ or shoot me mail at adeleyevictor40@gmail.com
 
 <!---
